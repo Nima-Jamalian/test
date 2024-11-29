@@ -3,11 +3,17 @@ by Nima jamalian
 
 Table of Contents
 [Variable](#variable)
+
 [Testing Math in markdown](#testing-math-in-markdown)
+
 [Code](#code)
+
 [Marking Grapgh](#marking-grapgh)
+
 [Marking Grapgh 1](#marking-grapgh-1)
+
 [Marking Grapgh 2](#marking-grapgh-2)
+
 ## Variable
 1. The first questions would go here?
 	<details>
