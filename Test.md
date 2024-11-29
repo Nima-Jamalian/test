@@ -39,7 +39,7 @@ Table of Contents
 	<summary>Solution</summary>
 	
 	This is the answer to that question.
-	```
+	```javascript
 	function findCharIndices(data, target){
 	    let result = []
 	    for(let i=0; i<data.length; i++){
@@ -63,7 +63,7 @@ Table of Contents
 	<summary>Solution</summary>
 	
 	This is the answer to that question.
-	```
+	```javascript
 	function findCharIndices(data, target){
 	    let result = []
 	    for(let i=0; i<data.length; i++){
@@ -95,7 +95,7 @@ Space $O(n)$
 Worst Case $O(1)$
 
 ### Code
-```
+```javascript
 function findCharIndices(data, target){
     let result = []
     for(let i=0; i<data.length; i++){
